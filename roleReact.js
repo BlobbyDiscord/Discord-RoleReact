@@ -8,8 +8,8 @@ React to the emoji that matches the role you wish to receive.
 If you would like to remove the role, simply remove your reaction!
 `;
 const embedFooter = "Roles:"; // Must set this if "embed" is set to true
-const roles = ["Coder (TRIAL)", "Moderator (TRIAL)"];
-const reactions = ["💻","😃"]; // For custom emojis, provide the name of the emoji
+const roles = ["Coder (TRIAL)", "Moderator (TRIAL)", "SPECIAL"];
+const reactions = ["💻","😃","👀"]; // For custom emojis, provide the name of the emoji
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
