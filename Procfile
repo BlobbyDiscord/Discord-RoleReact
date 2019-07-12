@@ -1,1 +1,1 @@
-worker: node RoleReact.js
+worker: node roleReact.js
